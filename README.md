@@ -14,6 +14,6 @@ The primary source of Data used is the Sales Data file made available by my faci
    2. For Analysis
    3. For Data Visualization
       
-- SQL - Structured Query Language for Querying of Data
-- PowerBI for Visualization
-- GitHub for Portfolio Building
+- SQL - Structured Query Language for Querying of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- PowerBI for Visualization [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+- GitHub for Portfolio Building [Download Here](https://github.com)
