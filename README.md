@@ -1,2 +1,9 @@
 # LITA-CAPSTONE-PROJECT-1
-This is where I documented a Sales Performance Analysis for a Retail Store, a project I worked on while learning Data Analysis track with The Incubator Hub
+
+## Project Title 1: Sales Performance Analysis for a Retail Store
+
+### Project Overview
+This project is aimed at conducting an in-depth analysis of sales data to identify trends, performance gaps, and opportunities for improvement. Focused on metrics such as top-selling products, regional performance, total sales, product popularity, customer behavior and monthly sales trends.
+
+### Data Sources
+The primary source of Data used is the Sales Data file made available by my facilitator for the purpose of this project.
