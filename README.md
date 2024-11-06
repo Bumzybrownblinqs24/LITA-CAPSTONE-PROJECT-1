@@ -68,7 +68,18 @@ Let's proceed with the insights required for this analysis
 
 ## 2. SQL Analysis
 Using SQL, I extracted insights such as:
-- Total sales for each product category.
+- **Total sales for each product category.**
+
+```SQL
+SELECT Product, SUM(Total_Sales) AS Total_Sales
+FROM [dbo].[Sales Data]
+GROUP BY Product
+ORDER BY Total_Sales DESC;
+```
+
+
+
+
 - Number of sales transactions in each region.
 - Highest-selling product by total sales value.
 - Total revenue per product.
