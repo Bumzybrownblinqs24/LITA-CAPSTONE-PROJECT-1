@@ -71,7 +71,10 @@ Using SQL, I extracted insights such as:
 - Total sales for each product category.
 - Number of sales transactions in each region.
 - Highest-selling product by total sales value.
+- Total revenue per product.
 - Monthly sales totals for the current year.
 - Top 5 customers by total purchase amount.
+- percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
 
 
