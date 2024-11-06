@@ -95,7 +95,11 @@ ORDER BY Total_Sales DESC;
 
 
 
-- Number of sales transactions in each region.
+- **Number of sales transactions in each region.**
+
+```SQL
+
+  
 - Highest-selling product by total sales value.
 - Total revenue per product.
 - Monthly sales totals for the current year.
