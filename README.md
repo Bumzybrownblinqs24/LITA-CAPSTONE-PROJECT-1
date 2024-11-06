@@ -65,3 +65,5 @@ Let's proceed with the insights required for this analysis
 
 
 ![Excel Formulas](https://github.com/user-attachments/assets/e9ac3bff-6039-457e-b179-0bea7cdefa7a)
+
+## 2. SQL Analysis
