@@ -54,8 +54,5 @@ Let's proceed with the insights required for this analysis
 - Calculated average sales per product and total revenue by region.
 - Created reports highlighting key metrics and trends.
 
-  
-![Pivot Table](https://github.com/user-attachments/assets/73538fef-0a68-45cc-82f1-79948230e4d0)
 
-  
-![Pivot Table](https://github.com/user-attachments/assets/f3b175b1-b2bf-42b1-a197-7e6cf0b1024c)
+![Pivot Table](https://github.com/user-attachments/assets/0e239feb-28ef-418e-87ea-fa47fc4725c2)
