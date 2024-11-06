@@ -67,3 +67,11 @@ Let's proceed with the insights required for this analysis
 ![Excel Formulas](https://github.com/user-attachments/assets/e9ac3bff-6039-457e-b179-0bea7cdefa7a)
 
 ## 2. SQL Analysis
+Using SQL, I extracted insights such as:
+- Total sales for each product category.
+- Number of sales transactions in each region.
+- Highest-selling product by total sales value.
+- Monthly sales totals for the current year.
+- Top 5 customers by total purchase amount.
+
+
