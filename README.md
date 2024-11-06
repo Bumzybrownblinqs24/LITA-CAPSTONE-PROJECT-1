@@ -62,3 +62,6 @@ Let's proceed with the insights required for this analysis
 
 
 ![Pivot Table 3](https://github.com/user-attachments/assets/d3ec1854-2935-4b6b-aa41-5d7ee1ae00e5)
+
+
+![Excel Formulas](https://github.com/user-attachments/assets/e9ac3bff-6039-457e-b179-0bea7cdefa7a)
