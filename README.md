@@ -77,6 +77,7 @@ GROUP BY Product
 ORDER BY Total_Sales DESC;
 ```
 
+![SQL](https://github.com/user-attachments/assets/66ebcef1-28b3-43ae-b1fe-6fafd59d6ab4)
 
 
 
