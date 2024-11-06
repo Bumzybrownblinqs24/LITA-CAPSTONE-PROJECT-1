@@ -74,7 +74,7 @@ Using SQL, I extracted insights such as:
 - Total revenue per product.
 - Monthly sales totals for the current year.
 - Top 5 customers by total purchase amount.
-- percentage of total sales contributed by each region.
-- identify products with no sales in the last quarter.
+- Percentage of total sales contributed by each region.
+- Identify products with no sales in the last quarter.
 
 
