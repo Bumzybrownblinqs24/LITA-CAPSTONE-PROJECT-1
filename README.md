@@ -53,5 +53,3 @@ Let's proceed with the insights required for this analysis
 - Summarized total sales by product, region, and month using Pivot Tables.
 - Calculated average sales per product and total revenue by region.
 - Created reports highlighting key metrics and trends.
-
-  
