@@ -2,6 +2,20 @@
 
 ## Project Title 1: Sales Performance Analysis for a Retail Store
 
+[Project Overview](#project-overview)
+
+[Project Objectives](#project-objectives)
+
+[Tools Used](#tools-used)
+
+[Key Insights](#key-insights)
+
+[Outcome](#outcome)
+
+[Data Collected](#data-collected)
+
+[Steps](#steps)
+
 ### Project Overview
 ---
 In this project, I analyzed the sales performance of a retail store to uncover insights into product popularity, regional sales patterns, and monthly trends. This project involves:
