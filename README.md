@@ -104,6 +104,7 @@ FROM [dbo].[Sales Data]
 GROUP BY Region
 ORDER BY Number_of_Transactions DESC;
 ```
+![SQL Query ](https://github.com/user-attachments/assets/b1975264-ccdd-4c07-868c-0ae657bd604d)
 
   
 - Highest-selling product by total sales value.
