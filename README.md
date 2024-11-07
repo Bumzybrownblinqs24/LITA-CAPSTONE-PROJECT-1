@@ -137,7 +137,14 @@ order by FORMAT(OrderDate, 'yyyy-mm')
 
 
 
-- Top 5 customers by total purchase amount.
+- **Top 5 customers by total purchase amount.**
+
+```SQL
+select top 5 Customer_ID, sum(Total_Sales) as TotalPurchase from [dbo].[Sales Data] group by Customer_Id 
+order by 2 desc
+```
+![SQL Query 4](https://github.com/user-attachments/assets/50787aa3-27a2-46ab-ad0c-2f375933f2be)
+
 - Percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter.
 
