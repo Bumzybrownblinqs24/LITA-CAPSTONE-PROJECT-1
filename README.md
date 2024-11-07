@@ -128,16 +128,19 @@ GROUP BY Product;
 - **Monthly sales totals for the current year.**
 
 ```SQL
-select FORMAT(OrderDate, 'yyyy-mm') as sales_month, sum(Total_Sales) as monthly_sales_total
-from[dbo].[Sales Data]  where YEAR(OrderDate) = 2024 group by FORMAT(OrderDate, 'yyyy-mm')
-order by FORMAT(OrderDate, 'yyyy-mm')
+SELECT Month(OrderDate) AS Month,
+    SUM(Total_Sales) AS MonthlySalesTotal
+FROM [dbo].[Sales Data] WHERE YEAR(OrderDate) = 2024
+GROUP BY Month(OrderDate)
+ORDER BY Month
 ```
-![SQL Query 3](https://github.com/user-attachments/assets/c41e72a9-f2bc-418f-8c4a-5b39c8b7714b)
+![SQL Query 3](https://github.com/user-attachments/assets/bf30e852-ebd2-4822-8644-9e05743424b1)
 
 
 
 
 - **Top 5 customers by total purchase amount.**
+
 
 ```SQL
 select top 5 Customer_ID, sum(Total_Sales) as TotalPurchase from [dbo].[Sales Data] group by Customer_Id 
@@ -145,7 +148,9 @@ order by 2 desc
 ```
 ![SQL Query 4](https://github.com/user-attachments/assets/50787aa3-27a2-46ab-ad0c-2f375933f2be)
 
-- Percentage of total sales contributed by each region.
+- **Percentage of total sales contributed by each region.**
+```SQL
+
 - Identify products with no sales in the last quarter.
 
 
