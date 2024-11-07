@@ -150,6 +150,18 @@ order by 2 desc
 
 - **Percentage of total sales contributed by each region.**
 ```SQL
+SELECT Region, SUM(Total_Sales) AS RegionTotalSales,
+FORMAT(ROUND((SUM(Total_Sales) / CAST((SELECT SUM(Total_Sales) FROM [dbo].[Sales Data]) AS DECIMAL(10,2)) * 100), 1), '0.#') 
+AS PercentageOfTotalSales
+FROM [dbo].[Sales Data]
+GROUP BY Region
+ORDER BY PercentageOfTotalSales DESC
+```
+
+![SQL Query 5](https://github.com/user-attachments/assets/e0c4e775-2f60-472b-8b39-e0e562f1b748)
+
+
+
 
 - Identify products with no sales in the last quarter.
 
