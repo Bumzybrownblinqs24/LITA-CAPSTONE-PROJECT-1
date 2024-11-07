@@ -72,6 +72,7 @@ Let's proceed with the insights required for this analysis
 
 
 
+![Pivot Table 2](https://github.com/user-attachments/assets/ac15e23f-6330-4ed0-a48e-dbaf5d02b1f2)
 
 
 ![Pivot Table 3](https://github.com/user-attachments/assets/d3ec1854-2935-4b6b-aa41-5d7ee1ae00e5)
