@@ -163,6 +163,15 @@ ORDER BY PercentageOfTotalSales DESC
 
 
 
-- Identify products with no sales in the last quarter.
+- **Identify products with no sales in the last quarter.**
 
+```SQL
+SELECT Product FROM [dbo].[Sales Data]
+GROUP BY Product
+HAVING SUM(CASE 
+WHEN OrderDate BETWEEN 2024-06-01 AND 2024-08-31 
+THEN 1 ELSE 0 END) = 0
+```  
+
+![SQL Query 6](https://github.com/user-attachments/assets/5517ddd9-5aa1-425b-a6b4-8900df97f00b)
 
