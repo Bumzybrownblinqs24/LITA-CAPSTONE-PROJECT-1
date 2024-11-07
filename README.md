@@ -107,7 +107,13 @@ ORDER BY Number_of_Transactions DESC;
 ![SQL Query ](https://github.com/user-attachments/assets/b1975264-ccdd-4c07-868c-0ae657bd604d)
 
   
-- Highest-selling product by total sales value.
+- **Highest-selling product by total sales value.**
+
+```SQL
+---highest selling product by total sales values---
+select top 1 product, sum(Total_Sales) as HighestSellingProduct from[dbo].[Sales Data]  group by Product order by 2 desc
+```
+
 - Total revenue per product.
 - Monthly sales totals for the current year.
 - Top 5 customers by total purchase amount.
