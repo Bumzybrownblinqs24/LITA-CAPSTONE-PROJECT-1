@@ -110,7 +110,6 @@ ORDER BY Number_of_Transactions DESC;
 - **Highest-selling product by total sales value.**
 
 ```SQL
----highest selling product by total sales values---
 select top 1 product, sum(Total_Sales) as HighestSellingProduct from[dbo].[Sales Data]  group by Product order by 2 desc
 ```
 ![SQL Query 1](https://github.com/user-attachments/assets/4ac1b6e6-bd46-4410-83e2-482d9a21166f)
@@ -126,7 +125,18 @@ GROUP BY Product;
 ![SQL Query 2](https://github.com/user-attachments/assets/ab258e60-9e4a-4c6f-9c5b-d056441a10a0)
 
 
-- Monthly sales totals for the current year.
+- **Monthly sales totals for the current year.**
+
+```SQL
+select FORMAT(OrderDate, 'yyyy-mm') as sales_month, sum(Total_Sales) as monthly_sales_total
+from[dbo].[Sales Data]  where YEAR(OrderDate) = 2024 group by FORMAT(OrderDate, 'yyyy-mm')
+order by FORMAT(OrderDate, 'yyyy-mm')
+```
+![SQL Query 3](https://github.com/user-attachments/assets/c41e72a9-f2bc-418f-8c4a-5b39c8b7714b)
+
+
+
+
 - Top 5 customers by total purchase amount.
 - Percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter.
