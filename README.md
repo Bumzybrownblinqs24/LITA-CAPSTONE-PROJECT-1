@@ -71,14 +71,14 @@ Let's proceed with the insights required for this analysis
 ![Pivot Table](https://github.com/user-attachments/assets/0e239feb-28ef-418e-87ea-fa47fc4725c2)
 
 
-![Pivot Table 2](https://github.com/user-attachments/assets/b2c421db-356d-44cc-92bd-e2afb0364ab2)
 
 
 
 ![Pivot Table 3](https://github.com/user-attachments/assets/d3ec1854-2935-4b6b-aa41-5d7ee1ae00e5)
 
+![Excel formula](https://github.com/user-attachments/assets/9244144d-ca1b-41f0-9aee-3217bf730f29)
 
-![Excel Formulas](https://github.com/user-attachments/assets/e9ac3bff-6039-457e-b179-0bea7cdefa7a)
+
 
 ## 2. SQL Analysis
 Using SQL, I extracted insights such as:
