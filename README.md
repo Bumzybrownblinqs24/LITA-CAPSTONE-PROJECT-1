@@ -99,6 +99,11 @@ ORDER BY Total_Sales DESC;
 - **Number of sales transactions in each region.**
 
 ```SQL
+SELECT Region, COUNT(OrderID) AS Number_of_Transactions
+FROM [dbo].[Sales Data]
+GROUP BY Region
+ORDER BY Number_of_Transactions DESC;
+```
 
   
 - Highest-selling product by total sales value.
