@@ -117,6 +117,14 @@ select top 1 product, sum(Total_Sales) as HighestSellingProduct from[dbo].[Sales
 
 - **Total revenue per product.**
 
+```SQL
+SELECT Product, SUM(Total_Sales) AS Total_Revenue
+FROM [dbo].[Sales Data]
+GROUP BY Product;
+```
+
+![SQL Query 2](https://github.com/user-attachments/assets/ab258e60-9e4a-4c6f-9c5b-d056441a10a0)
+
 
 - Monthly sales totals for the current year.
 - Top 5 customers by total purchase amount.
