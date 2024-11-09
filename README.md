@@ -175,3 +175,19 @@ THEN 1 ELSE 0 END) = 0
 
 ![SQL Query 6](https://github.com/user-attachments/assets/5517ddd9-5aa1-425b-a6b4-8900df97f00b)
 
+
+## 3. PowerBi Dashboard
+
+Using PowerBi, I created a dashboard that visualizes the insights found in Excel and SQL. 
+
+The dashboard includes:
+
+- Sales Overview
+- Top-Performing Products
+- Monthly Sales Trend
+- Regional breakdowns
+
+![Sales Data PowerBi Report](https://github.com/user-attachments/assets/dac3bac2-afd8-45c4-9dae-0a0a618d9a6a)
+
+![Sales Data PowerBi Report 2](https://github.com/user-attachments/assets/8c1ae5d0-777f-47f4-935f-7d5762992b6a)
+
