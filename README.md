@@ -8,13 +8,13 @@
 
 [Tools Used](#tools-used)
 
-[Key Insights](#key-insights)
-
-[Outcome](#outcome)
-
 [Data Collected](#data-collected)
 
 [Steps](#steps)
+
+[Key Insights](#key-insights)
+
+[Outcome](#outcome)
 
 ### Project Overview
 ---
@@ -39,12 +39,6 @@ In this project, I analyzed the sales performance of a retail store to uncover i
 - **SQL**: Extracting deeper insights and answering key business questions [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - **PowerBI**: Building an interactive dashboard to visualize insights [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 - **GitHub**: for Portfolio Building [Download Here](https://github.com)
-
-### Key Insights
-Highlighted top-performing products, identified low-sales periods, and recommended strategies for inventory management and targeted promotions. This project is aimed at conducting an in-depth analysis of sales data to identify trends, performance gaps, and opportunities for improvement. Focused on metrics such as top-selling products, regional performance, total sales, product popularity, customer behavior and monthly sales trends.
-
-### Outcome
-Improved understanding of sales patterns, which could inform strategic decisions for store operations and marketing.
 
 ### Data Collected
 The dataset includes the following columns;
@@ -178,7 +172,7 @@ THEN 1 ELSE 0 END) = 0
 
 ## 3. PowerBi Dashboard
 
-Using PowerBi, I created a dashboard that visualizes the insights found in Excel and SQL. 
+Using PowerBi, I created an interactive Power BI dashboard that visualizes the insights found in Excel and SQL. 
 
 The dashboard also includes:
 
@@ -190,4 +184,49 @@ The dashboard also includes:
 ![Sales Data PowerBi Report](https://github.com/user-attachments/assets/dac3bac2-afd8-45c4-9dae-0a0a618d9a6a)
 
 ![Sales Data PowerBi Report 2](https://github.com/user-attachments/assets/8c1ae5d0-777f-47f4-935f-7d5762992b6a)
+
+
+### Key Insights
+
+- 1. **Sales Overview:**
+  
+  - There is a noticeable decrease in product sold from 2023 to 2024. The South region, while still leading, shows a decrease in the number of products sold compared to the previous year.
+  - 2023 recorded a total sales value of ₦5,575,000, whereas 2024 slightly decreased to ₦5,012,500
+  
+  2. **Top-Performing Products:**
+  
+  - The data reveals which products generated the highest revenue. Notably, Shoes consistently ranked as the top-seller with total sales of ₦3,087,500, accounting for 29% of total sales.
+
+- 3. **Regional Sales Performance:**
+  
+  - Sales were highest in the South region with ₦4,675,000 in sales, making up about 44% of the total revenue . This region outperformed others, likely due to larger customer base.
+
+- 4. **Monthly Sales Trend:**
+  - Monthly data reveals February as a peak sales month (₦2,750,000), while March has lower sales volumes, potentially due to off-peak demand.
+
+
+### Outcomes
+  - Despite consistent product and regional demand, there’s a noticeable decline in total sales in 2024 compared to 2023. This could indicate emerging competition, changes in customer preferences, or economic 
+    factors affecting purchasing power.
+  - Top-performing product such as Shoes and Shirt highlight customer preferences, which can help focus marketing efforts or inventory adjustments. Focusing on these products in future promotions or bundling 
+    them with less popular items could increase overall revenue.
+  - Expansion of marketing efforts in regions like the West or new locations with similar demographics could drive additional revenue.
+  - Marketing campaigns or special offers in low sales months could help stabilize revenue flow throughout the year.
+
+
+### Inferences
+  - Popular items might indicate seasonal or trend-driven demand, warranting a closer look at restocking strategies and promotions to capitalize on these products.
+  - There may be opportunities for cross-selling or upselling these items in targeted customer segments or regions where they underperform.
+  - Certain months could be linked to regional or seasonal preferences, guiding the timing for advertising or product launches.
+  - The South's higher revenue might indicate a stronger customer base or distribution network, suggesting a focus on strengthening underperforming regions.
+  - A year-on-year sales decrease suggests a need for strategy adjustments. Possible actions include targeted marketing campaigns or exploring customer feedback to understand potential shifts in demand.
+
+
+### Conclusion
+  - Optimizing inventory for high-demand products and adjusting stock levels for low-performing items could enhance profitability and ensure steady sales growth.
+  - Strategic promotions for high-demand products across regions could yield higher sales consistency and customer satisfaction.
+  - Implementing seasonal sales or discounts in low-performing months can help balance monthly revenue and maintain customer engagement.
+  - Investing in regional marketing and logistical improvements in the North and East regions could improve overall market penetration and revenue growth.
+  - Revamping promotional strategies and exploring product diversification could help regain and potentially surpass the 2023 sales level in 2024 and beyond, stabilizing year-over-year growth.
+
 
