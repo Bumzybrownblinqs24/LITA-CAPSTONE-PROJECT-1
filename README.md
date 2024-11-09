@@ -180,7 +180,7 @@ THEN 1 ELSE 0 END) = 0
 
 Using PowerBi, I created a dashboard that visualizes the insights found in Excel and SQL. 
 
-The dashboard includes:
+The dashboard also includes:
 
 - Sales Overview
 - Top-Performing Products
