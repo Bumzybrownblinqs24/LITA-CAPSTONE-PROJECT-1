@@ -10,7 +10,7 @@
 
 [Data Collected](#data-collected)
 
-[Steps](#steps)
+[Data Analysis](data-analysis)
 
 [Key Insights](#key-insights)
 
@@ -60,7 +60,7 @@ The dataset includes the following columns;
 
 Let's proceed with the insights required for this analysis
 
-### Steps
+### Data Analysis
 1. ## Excel Analysis
 - Summarized total sales by product, region, and month using Pivot Tables.
 - Calculated average sales per product and total revenue by region.
