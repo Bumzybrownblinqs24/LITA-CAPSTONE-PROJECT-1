@@ -187,7 +187,8 @@ The dashboard also includes:
 
 ![Sales Data PowerBi Report](https://github.com/user-attachments/assets/dac3bac2-afd8-45c4-9dae-0a0a618d9a6a)
 
-![Sales Data PowerBi Report 2](https://github.com/user-attachments/assets/8c1ae5d0-777f-47f4-935f-7d5762992b6a)
+![Sales Data PowerBi Report 2](https://github.com/user-attachments/assets/0a7ce724-f1c3-4c7c-959b-ee94e702ecf6)
+
 
 
 ### Key Insights
