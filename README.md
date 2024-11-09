@@ -14,7 +14,11 @@
 
 [Key Insights](#key-insights)
 
-[Outcome](#outcome)
+[Outcomes](#outcomes)
+
+[Inferences](inferences)
+
+[Conclusion](conclusion)
 
 ### Project Overview
 ---
@@ -226,7 +230,7 @@ The dashboard also includes:
   - Optimizing inventory for high-demand products and adjusting stock levels for low-performing items could enhance profitability and ensure steady sales growth.
   - Strategic promotions for high-demand products across regions could yield higher sales consistency and customer satisfaction.
   - Implementing seasonal sales or discounts in low-performing months can help balance monthly revenue and maintain customer engagement.
-  - Investing in regional marketing and logistical improvements in the North and East regions could improve overall market penetration and revenue growth.
+  - Investing in regional marketing and logistical improvements in the West and North regions could improve overall market penetration and revenue growth.
   - Revamping promotional strategies and exploring product diversification could help regain and potentially surpass the 2023 sales level in 2024 and beyond, stabilizing year-over-year growth.
 
 
