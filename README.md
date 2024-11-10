@@ -22,7 +22,8 @@
 
 ### Project Overview
 ---
-In this project, I analyzed the sales performance of a retail store to uncover insights into product popularity, regional sales patterns, and monthly trends. This project involves:
+In this project, I analyzed the sales performance of a retail store to uncover insights into product popularity, regional sales patterns, and monthly trends. Duplicates was not removed in this data, so as not to lose valid data, because it has to do with sales and revenue. 
+This project involves:
 
 - Data exploration and analysis using Excel.
 - Data querying using SQL.
