@@ -212,9 +212,11 @@ The dashboard also includes:
 
 
 ### Outcomes
-  - Despite consistent product and regional demand, there’s a noticeable decline in total sales in 2024 compared to 2023. This could indicate emerging competition, changes in customer preferences, or economic 
+  - Despite consistent product and regional demand, there’s a noticeable decline in total sales in 2024 compared to 2023. This could indicate emerging competition, changes in customer 
+    preferences, or economic 
     factors affecting purchasing power.
-  - Top-performing product such as Shoes and Shirt highlight customer preferences, which can help focus marketing efforts or inventory adjustments. Focusing on these products in future promotions or bundling 
+  - Top-performing product such as Shoes and Shirt highlight customer preferences, which can help focus marketing efforts or inventory adjustments. Focusing on these products in future 
+    promotions or bundling 
     them with less popular items could increase overall revenue.
   - Expansion of marketing efforts in regions like the West or new locations with similar demographics could drive additional revenue.
   - Marketing campaigns or special offers in low sales months could help stabilize revenue flow throughout the year.
@@ -225,7 +227,8 @@ The dashboard also includes:
   - There may be opportunities for cross-selling or upselling these items in targeted customer segments or regions where they underperform.
   - Certain months could be linked to regional or seasonal preferences, guiding the timing for advertising or product launches.
   - The South's higher revenue might indicate a stronger customer base or distribution network, suggesting a focus on strengthening underperforming regions.
-  - A year-on-year sales decrease suggests a need for strategy adjustments. Possible actions include targeted marketing campaigns or exploring customer feedback to understand potential shifts in demand.
+  - A year-on-year sales decrease suggests a need for strategy adjustments. Possible actions include targeted marketing campaigns or exploring customer feedback to understand potential 
+    shifts in demand.
 
 
 ### Conclusion
@@ -233,6 +236,7 @@ The dashboard also includes:
   - Strategic promotions for high-demand products across regions could yield higher sales consistency and customer satisfaction.
   - Implementing seasonal sales or discounts in low-performing months can help balance monthly revenue and maintain customer engagement.
   - Investing in regional marketing and logistical improvements in the West and North regions could improve overall market penetration and revenue growth.
-  - Revamping promotional strategies and exploring product diversification could help regain and potentially surpass the 2023 sales level in 2024 and beyond, stabilizing year-over-year growth.
+  - Revamping promotional strategies and exploring product diversification could help regain and potentially surpass the 2023 sales level in 2024 and beyond, stabilizing year-over-year 
+    growth.
 
 
